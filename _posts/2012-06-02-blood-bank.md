@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Blood Bank"
-description: ""
-category: 
-tags: []
+title: "Blood Bank by Bon Iver"
+tagline: ""
+category: "Album Reviews"
 ---
 {% include JB/setup %}
 
@@ -26,4 +25,4 @@ Bon Iver has received a lot of criticism for his latest album. While I wouldn't 
 
 I'm very interested to see how his sound develops from here. Its clear from his involvement in Ganygs and Kanye's latest album that he loves experimenting with his sound, I just hope he doesn't stray too far from his more acoustic roots. I do love his experimentation, I loved his vocals on "My Beautiful Dark Twisted Fantasy" but I also like his older work with Volcano Choir where he stayed a lot closer to FEFA in terms of sound. 
 
-![Bon Iver - Blood Bank](http://i.imgur.com/9Tah0l.jpg)
+[Bon Iver - Blood Bank](http://i.imgur.com/9Tah0l.jpg)
